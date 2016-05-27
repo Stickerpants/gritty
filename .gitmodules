@@ -1,3 +1,4 @@
 [submodule "gritty-submod"]
 	path = gritty-submod
 	url = https://github.com/stickerpants/gritty-submod.git
+	branch = gritty-parent-branch
